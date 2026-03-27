@@ -178,6 +178,9 @@
   .p-3 {
     padding: calc(var(--spacing) * 3);
   }
+  .p-44 {
+    padding: calc(var(--spacing) * 44);
+  }
   .text-amber-300 {
     color: var(--color-amber-300);
   }
